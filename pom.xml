@@ -55,6 +55,7 @@
 							<!-- The native image build needs to know the entry point to your application -->
 							<mainClass>org.shelajev.primes.primes.PrimesApplication</mainClass>
 							<buildArgs>
+							  --verbose
 							</buildArgs>
 						</configuration>
 						<executions>
