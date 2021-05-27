@@ -1,6 +1,8 @@
 # github-actions-native-image
 This is an example repository showing how to use a self-hosted runner for a github repository
 
+[![Build native image on self-hosted runner & upload it](https://github.com/shelajev/github-actions-native-image/actions/workflows/maven.yml/badge.svg?branch=master)](https://github.com/shelajev/github-actions-native-image/actions/workflows/maven.yml)
+
 It is using a small Spring Boot application with [Spring native](https://docs.spring.io/spring-native/docs/current/reference/htmlsingle/#overview). 
 
 Useful links: 
