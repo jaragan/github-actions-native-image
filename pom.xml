@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>org.shelajev.primes</groupId>
 	<artifactId>primes</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.3-SNAPSHOT</version>
 	<name>primes</name>
 	<description>Demo project to compute the primes numbers </description>
 	<properties>
